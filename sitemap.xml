@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+  <url><loc>https://jodouma.github.io/</loc></url>
+  <url><loc>https://jodouma.github.io/experience/</loc></url>
+  <url><loc>https://jodouma.github.io/case-studies/</loc></url>
+  <url><loc>https://jodouma.github.io/case-studies/applied-cybersecurity-labs/</loc></url>
+  <url><loc>https://jodouma.github.io/case-studies/cloudflare-edge-integration/</loc></url>
+  <url><loc>https://jodouma.github.io/case-studies/infrastructure-audit-pipeline/</loc></url>
+  <url><loc>https://jodouma.github.io/case-studies/iprecision-kubernetes-observability/</loc></url>
+  <url><loc>https://jodouma.github.io/case-studies/postgresql-storage-optimization/</loc></url>
+  <url><loc>https://jodouma.github.io/case-studies/secure-video-platform-modernization/</loc></url>
+  <url><loc>https://jodouma.github.io/case-studies/security-automation-abuseipdb/</loc></url>
+  <url><loc>https://jodouma.github.io/case-studies/production-performance-engineering/</loc></url>
+  <url><loc>https://jodouma.github.io/case-studies/seo-control-plane/</loc></url>
+  <url><loc>https://jodouma.github.io/capabilities/</loc></url>
+  <url><loc>https://jodouma.github.io/about/</loc></url>
+  <url><loc>https://jodouma.github.io/journey/</loc></url>
+  <url><loc>https://jodouma.github.io/projects/</loc></url>
+  <url><loc>https://jodouma.github.io/teaching/</loc></url>
+  <url><loc>https://jodouma.github.io/recommendations/</loc></url>
+  <url><loc>https://jodouma.github.io/resume/</loc></url>
+  <url><loc>https://jodouma.github.io/contact/</loc></url>
 </urlset>
