@@ -2,6 +2,6 @@
 
 Deployment repository for my professional portfolio.
 
-Technology leader, platform engineer, educator, and builder focused on reliable systems, operational clarity, and early-stage innovation.
+Senior Platform, Cloud & Reliability Engineer focused on business-critical systems, operational resilience, security, and dependable delivery.
 
 Website: https://jodouma.github.io/
