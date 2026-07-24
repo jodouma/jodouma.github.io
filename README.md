@@ -2,6 +2,6 @@
 
 Deployment repository for my professional portfolio.
 
-Platform & Infrastructure Engineer focused on production reliability, cloud infrastructure, DevOps, SRE and automation.
+Technology leader, platform engineer, educator, and builder focused on reliable systems, operational clarity, and early-stage innovation.
 
 Website: https://jodouma.github.io/
