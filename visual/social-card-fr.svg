@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Youssef Douma — Ingénieur senior plateforme, cloud et fiabilité</title>
+  <desc id="desc">Carte sociale professionnelle abstraite, sans portrait.</desc>
+  <rect width="1200" height="630" fill="#eef2f6"/>
+  <path d="M0 82h1200M0 548h1200M84 0v630M1116 0v630" stroke="#c9d3df"/>
+  <path d="M790 90h326v326H790zM852 152h202v202H852z" fill="none" stroke="#5aa7d8" stroke-width="3"/>
+  <circle cx="953" cy="253" r="42" fill="#13243a"/>
+  <path d="M790 466h326" stroke="#13243a" stroke-width="10"/>
+  <text x="84" y="220" fill="#13243a" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">Youssef Douma</text>
+  <text x="84" y="292" fill="#32516f" font-family="Arial, Helvetica, sans-serif" font-size="34">Ingénieur senior plateforme, cloud et</text>
+  <text x="84" y="340" fill="#32516f" font-family="Arial, Helvetica, sans-serif" font-size="34">fiabilité</text>
+  <text x="84" y="478" fill="#13243a" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="2">FIABILITÉ · SÉCURITÉ · RÉSILIENCE OPÉRATIONNELLE</text>
+</svg>
